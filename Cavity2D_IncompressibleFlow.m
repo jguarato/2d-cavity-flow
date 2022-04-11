@@ -1,6 +1,6 @@
 % 2D lid-driven cavity flow: incompressible Navier-Stokes equations
 % Solved with finite volume method and the fractional step method 
-% Developed by: Jessica Guarato
+% Created by: Jessica Guarato
 % Last modified on: November, 2017
 
 clc; clear all; close all;
